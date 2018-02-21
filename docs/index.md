@@ -8,4 +8,4 @@ See [Profiling](profiling.md) for more details.
 
 See [Debugging](debugging.md) for even more details.
 
-See [Thingummy](thingummy.md) for all the things.
+See [Thingummies](thingummies.md) for all the things.
